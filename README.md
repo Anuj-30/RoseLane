@@ -2,7 +2,7 @@
 
 **RoseLane** is a luxury brand landing page designed with a soft pink & white theme. It blends elegant UI with essential e-commerce features like product search, sort, and cart interactions — all built using modern frontend tools.
 
-![RoseLane Banner](./assets/header.png) <!-- Replace with actual path if different -->
+![RoseLane Banner](src/assets/ui.png) <!-- Replace with actual path if different -->
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ## 🚀 Live link and showcase
-[![RoseLane Banner](./assets/ui.png)](https://anuj-30.github.io/RoseLane/)
+[![RoseLane Link]](https://anuj-30.github.io/RoseLane/)
 
 
 
